@@ -1,3 +1,3 @@
-# hello-world
-Test repository for the tutorial
-System.out.println("hello world!")
+git checkout readme-edit
+git merge --no-ff master
+git push origin readme-edit

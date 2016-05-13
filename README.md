@@ -1,4 +1,3 @@
-# hello-world
-Test re
-
-I am jace.
+git fetch origin
+git checkout -b master origin/master
+git merge readme-edit
